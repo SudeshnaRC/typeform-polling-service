@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.addvert.marketresearch.typeformpollingservice
+testFramework: spock
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [ annotation-api, app-name, data, data-jdbc, gradle, hibernate-jpa, http-client, jackson-databind, jdbc-hikari, kafka, kotlin, kotlin-application, kotlin-build, log4j2, micronaut-build, netty-server, postgres, readme, shade, spock, test-resources, yaml ]
